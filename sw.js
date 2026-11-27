@@ -1,4 +1,4 @@
-const CACHE_NAME = 'car-rapide-3d-motorboy-v69';
+const CACHE_NAME = 'car-rapide-3d-motorboy-v70';
 const CORE_ASSETS = [
   './',
   './index.html',
